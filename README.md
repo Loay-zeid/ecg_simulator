@@ -85,8 +85,22 @@ The system automatically classifies the heart rate and:
 | 🟢 Normal | 60 – 100 BPM | Healthy |
 | 🔴 High | > 100 BPM | Tachycardia |
 
+### Low
+
 <p align="center">
-  <img src="result.png" width="600"/>
+  <img src="low.png" width="600"/>
+</p>
+
+### Normal
+
+<p align="center">
+  <img src="normal.png" width="600"/>
+</p>
+
+### High
+
+<p align="center">
+  <img src="high.png" width="600"/>
 </p>
 
 ---
