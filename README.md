@@ -56,7 +56,7 @@ python main.py
 - Click **▶ Start Simulation**
 
 <p align="center">
-  <img src="input.png" width="600"/>
+  <img src=".png" width="600"/>
 </p>
 
 ---
@@ -68,7 +68,7 @@ python main.py
 - The plot title shows the BPM and classification for quick reference
 
 <p align="center">
-  <img src="ecg.png" width="800"/>
+  <img src=".png" width="800"/>
 </p>
 
 ---
